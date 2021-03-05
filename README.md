@@ -1,2 +1,2 @@
-# simon-game
+# Simon-Game
 JS practice with jQuery
